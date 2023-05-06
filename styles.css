@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #fff;
+}
+nav {
+    list-style-type:none;
+    
+
+}
+li {
+    display: inline;
+    padding: 15px;
+     
+
+
+}
+
+.reward{
+    background-color: #00704A;
+    color:aliceblue;
+
+    
+    
+}
+ 
+img{
+    width:100px;
+height: auto;
+border-radius: 50%; }
+ 
+
+
+footer{
+    background-color: #00704A;
+    color:#fff
+}
+
